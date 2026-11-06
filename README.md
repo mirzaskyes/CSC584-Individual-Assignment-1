@@ -25,7 +25,7 @@ Student ID: 2025178523
 
 ## Screenshots
 ### Form Page
-![Form Screenshot](screenshots/form.jpeg)
+![Form Screenshot]("C:\Users\Mirza\OneDrive - Universiti Teknologi MARA\CSC584-Deg Sem 4\CSC584-Individual-Assignment-1\screenshot\form.jpeg")
 
 ### Profile Page
-![Profile Screenshot](screenshots/profile.jpeg)
+![Profile Screenshot]("C:\Users\Mirza\OneDrive - Universiti Teknologi MARA\CSC584-Deg Sem 4\CSC584-Individual-Assignment-1\screenshot\profile.jpeg")

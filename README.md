@@ -3,6 +3,10 @@
 ## Project Description
 A simple Personal Profile Web Application built as part of the CSC584 course assignment requirements. It collects user profile information through an HTML form, processes it with a Java Servlet using an HTTP POST request, and displays the submitted data cleanly on a JSP page.
 
+## Author
+Name: HARITH MIRZA BIN MADRADZI
+Student ID: 2025178523
+
 ## Technologies Used
 - HTML5 and CSS3
 - Java Servlet

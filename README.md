@@ -19,8 +19,9 @@ Student ID: 2025178523
 1. Open NetBeans IDE 8.2.
 2. Ensure GlassFish Server 4.1.1 is configured under Tools -> Servers.
 3. Import or open this project folder in NetBeans.
-4. Right-click the project name and select **Run** (or press F6).
-5. Open your browser and navigate to `http://localhost:8080/CSC584-Individual-Assignment-1/index.html`.
+4. Right-click the project name and select **Clean and Build**.
+5. Right-click the project name and select **Run** (or press F6).
+6. Open your browser and navigate to `http://localhost:8080/CSC584-Individual-Assignment-1/index.html`.
 
 ## Output Screenshots
 ![Form Screenshot](screenshots/form.png)

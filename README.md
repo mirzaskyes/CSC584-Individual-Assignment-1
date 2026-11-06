@@ -23,6 +23,9 @@ Student ID: 2025178523
 5. Right-click the project name and select **Run** (or press F6).
 6. Open your browser and navigate to `http://localhost:8080/CSC584-Individual-Assignment-1/index.html`.
 
-## Output Screenshots
-![Form Screenshot](screenshots/form.png)
-![Profile Screenshot](screenshots/profile.png)
+## Screenshots
+### Form Page
+![Form Screenshot](screenshots/form.jpeg)
+
+### Profile Page
+![Profile Screenshot](screenshots/profile.jpeg)

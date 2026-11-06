@@ -28,4 +28,4 @@ Student ID: 2025178523
 ![Form Screenshot](screenshot/form.jpeg)
 
 ### Profile Page
-![Profile Screenshot](C:\Users\Mirza\Downloads\profile.jpeg)
+![Profile Screenshot](screenshot/profile.jpeg)
